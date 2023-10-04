@@ -1,0 +1,1 @@
+sns.clustermap(iris.drop("species", axis=1))
