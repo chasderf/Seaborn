@@ -1,0 +1,1 @@
+sns.histplot(tips['tip'], kde=True, bins=15)
